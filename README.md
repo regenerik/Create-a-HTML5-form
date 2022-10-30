@@ -13,14 +13,7 @@ Create an `index.html` file with the [basic HTML structure](http://content.breat
 ```sh
 $ pip3 install flask && python3 server.py
 ```
+![image](https://user-images.githubusercontent.com/86080960/198900702-d7555050-043a-4a46-8910-4a0478ecb4e4.png)
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+
